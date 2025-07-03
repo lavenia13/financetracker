@@ -1,0 +1,14 @@
+.dashboard-container {
+  padding: 20px;
+}
+.filters select {
+  margin: 10px;
+}
+.transaction-list {
+  list-style-type: none;
+}
+.transaction-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
